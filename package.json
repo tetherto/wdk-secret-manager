@@ -1,6 +1,6 @@
 {
   "name": "@tetherto/wdk-secret-manager",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-beta.4",
   "description": "A package to encrypt mnemonic and seed buffer",
   "keywords": [
     "tetherto",
