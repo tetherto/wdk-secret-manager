@@ -11,9 +11,9 @@ A small, security-focused utility for generating, encrypting, and managing walle
 
 ### 🔍 About WDK
 
-This module is part of the WDK (Wallet Development Kit) project, which empowers developers to build secure, non-custodial wallets with unified blockchain access, stateless architecture, and full user control.
+This module is part of WDK (Wallet Development Kit) by Tether, which empowers developers to build secure, non-custodial wallets with unified blockchain access, stateless architecture, and full user control.
 
-For detailed documentation about the complete WDK ecosystem, visit `https://docs.wallet.tether.io`.
+See the [Secret Manager documentation](https://docs.wdk.tether.io/tools/secret-manager/). For the complete ecosystem, see the [general WDK documentation](https://docs.wdk.tether.io/).
 
 ### 🌟 Features
 
